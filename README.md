@@ -14,7 +14,8 @@
 * 例如：
 ![](http://extensions.sinacloud.net/ArticlePics/Tinydbeditable/2.png)
 
-原网址：http://aix.colintree.cn/down/TinyDBEditable
+原网址：http://aix.colintree.cn/down/TinyDBEditable  
+作者：ColinTree
 
 
 
@@ -34,4 +35,5 @@ Addtionally, MD5 Function is included
 * For example: 
 ![](http://extensions.sinacloud.net/ArticlePics/Tinydbeditable/2.png)
 
-Original Web Page：http://aix.colintree.cn/down/TinyDBEditable
+Original Web Page：http://aix.colintree.cn/down/TinyDBEditable  
+Author: ColinTree
