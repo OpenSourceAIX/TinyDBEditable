@@ -1,4 +1,4 @@
-## 判断是否首次运行组件
+## 增强版-本地数据库组件
 
 更新于2016.10.2 版本1.0
 
@@ -18,7 +18,7 @@
 
 
 
-## Check if the first time to run component
+## Advance version-TinyDB component
  
 Version1.0 Update in Oct.2, 2016
 
