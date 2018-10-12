@@ -1,3 +1,13 @@
+## 弃用 / DEPRECATED
+
+由于[mit-cml / appinventor-sources#1111](https://github.com/mit-cml/appinventor-sources/pull/1111)已合并，因此不推荐使用此功能。 仅适用于App Inventor使用的旧版本。
+
+Due to [mit-cml/appinventor-sources#1111](https://github.com/mit-cml/appinventor-sources/pull/1111) has been merged, this is deprecated. And just for some old version App Inventor use.
+
+对于App Inventor的在线用户（在ai2.appinventor.mit.edu上），请使用内置的Namespace属性而不是使用此属性，以避免混淆。
+
+For online user of App Inventor(ai2.appinventor.mit.edu), please use built-in Namespace property instead of using this, to avoid confusing.
+
 ## 增强版-本地数据库组件
 
 更新于2016.10.2 版本1.0
